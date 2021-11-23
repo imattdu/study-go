@@ -1,1 +1,1 @@
-# stugo
+# studygo
